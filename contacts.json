@@ -1,0 +1,26 @@
+{
+  "John Doe": {
+    "status": "online",
+    "avatar": "\ud83d\ude0a"
+  },
+  "Jane Smith": {
+    "status": "offline",
+    "avatar": "\ud83d\udc69"
+  },
+  "Mike Wilson": {
+    "status": "online",
+    "avatar": "\ud83d\udc68"
+  },
+  "Sarah Johnson": {
+    "status": "busy",
+    "avatar": "\ud83d\udc67"
+  },
+  "Tom Brown": {
+    "status": "online",
+    "avatar": "\ud83e\uddd1"
+  },
+  "s": {
+    "status": "offline",
+    "avatar": "\ud83d\ude0a"
+  }
+}

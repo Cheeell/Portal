@@ -1,0 +1,316 @@
+{
+  "FrutigerAeroNodeEditor": {
+    "Text": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "TextDisabled": [
+      140,
+      170,
+      200,
+      200
+    ],
+    "WindowBg": [
+      35,
+      45,
+      55,
+      240
+    ],
+    "ChildBg": [
+      40,
+      50,
+      65,
+      200
+    ],
+    "PopupBg": [
+      45,
+      60,
+      80,
+      250
+    ],
+    "Border": [
+      100,
+      180,
+      240,
+      200
+    ],
+    "BorderShadow": [
+      60,
+      140,
+      220,
+      80
+    ],
+    "FrameBg": [
+      50,
+      70,
+      95,
+      220
+    ],
+    "FrameBgHovered": [
+      70,
+      100,
+      140,
+      240
+    ],
+    "FrameBgActive": [
+      80,
+      120,
+      170,
+      255
+    ],
+    "TitleBg": [
+      40,
+      80,
+      130,
+      230
+    ],
+    "TitleBgActive": [
+      50,
+      100,
+      160,
+      250
+    ],
+    "TitleBgCollapsed": [
+      40,
+      75,
+      120,
+      180
+    ],
+    "MenuBarBg": [
+      45,
+      65,
+      90,
+      240
+    ],
+    "ScrollbarBg": [
+      30,
+      40,
+      50,
+      160
+    ],
+    "ScrollbarGrab": [
+      80,
+      140,
+      200,
+      200
+    ],
+    "ScrollbarGrabHovered": [
+      100,
+      160,
+      220,
+      230
+    ],
+    "ScrollbarGrabActive": [
+      120,
+      180,
+      240,
+      255
+    ],
+    "CheckMark": [
+      100,
+      200,
+      255,
+      255
+    ],
+    "SliderGrab": [
+      90,
+      160,
+      230,
+      220
+    ],
+    "SliderGrabActive": [
+      120,
+      190,
+      255,
+      255
+    ],
+    "Button": [
+      60,
+      90,
+      130,
+      220
+    ],
+    "ButtonHovered": [
+      80,
+      120,
+      170,
+      240
+    ],
+    "ButtonActive": [
+      100,
+      150,
+      210,
+      255
+    ],
+    "Header": [
+      55,
+      95,
+      145,
+      220
+    ],
+    "HeaderHovered": [
+      70,
+      115,
+      170,
+      240
+    ],
+    "HeaderActive": [
+      85,
+      135,
+      200,
+      255
+    ],
+    "Separator": [
+      80,
+      140,
+      200,
+      180
+    ],
+    "SeparatorHovered": [
+      100,
+      170,
+      230,
+      220
+    ],
+    "SeparatorActive": [
+      120,
+      190,
+      255,
+      255
+    ],
+    "Tab": [
+      50,
+      80,
+      120,
+      220
+    ],
+    "TabHovered": [
+      70,
+      110,
+      160,
+      240
+    ],
+    "TabActive": [
+      60,
+      100,
+      150,
+      250
+    ],
+    "TabUnfocused": [
+      40,
+      65,
+      95,
+      200
+    ],
+    "TabUnfocusedActive": [
+      50,
+      85,
+      125,
+      220
+    ],
+    "DockingPreview": [
+      100,
+      180,
+      255,
+      100
+    ],
+    "DockingEmptyBg": [
+      30,
+      40,
+      55,
+      200
+    ],
+    "PlotLines": [
+      120,
+      200,
+      255,
+      255
+    ],
+    "PlotLinesHovered": [
+      140,
+      220,
+      255,
+      255
+    ],
+    "PlotHistogram": [
+      100,
+      180,
+      240,
+      240
+    ],
+    "PlotHistogramHovered": [
+      120,
+      200,
+      255,
+      255
+    ],
+    "TableHeaderBg": [
+      50,
+      85,
+      130,
+      230
+    ],
+    "TableBorderStrong": [
+      80,
+      140,
+      200,
+      220
+    ],
+    "TableBorderLight": [
+      60,
+      110,
+      160,
+      160
+    ],
+    "TableRowBg": [
+      35,
+      50,
+      70,
+      180
+    ],
+    "TableRowBgAlt": [
+      40,
+      60,
+      85,
+      180
+    ],
+    "TextSelectedBg": [
+      80,
+      140,
+      210,
+      200
+    ],
+    "DragDropTarget": [
+      120,
+      200,
+      255,
+      220
+    ],
+    "NavHighlight": [
+      100,
+      180,
+      255,
+      255
+    ],
+    "NavWindowingHighlight": [
+      140,
+      210,
+      255,
+      220
+    ],
+    "NavWindowingDimBg": [
+      20,
+      30,
+      45,
+      150
+    ],
+    "ModalWindowDimBg": [
+      15,
+      25,
+      40,
+      180
+    ]
+  }
+}
