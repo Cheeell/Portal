@@ -5,6 +5,9 @@ from ui.control_strip import create_control_strip, update_control_strip_position
 from themes.theme_manager import apply_theme, load_theme_preference
 import os
 
+def Roman():
+    print("Roman")
+    print("Roman")
 
 def load_font_settings():
     """Load font settings from config file"""
